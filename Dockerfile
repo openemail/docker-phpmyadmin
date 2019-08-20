@@ -1,2 +1,2 @@
-FROM osixia/phpmyadmin:latest
+FROM phpmyadmin/phpmyadmin
 MAINTAINER Chinthaka Deshapriya <chinthaka@cybergate.lk>
